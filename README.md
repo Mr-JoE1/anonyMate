@@ -11,10 +11,10 @@ to make all your connections Anonymous Just be excute one Command.
 # Installing
 Installing on Linux - It's only avaliable for Linux Distro. For NOW.
 
-$ git clone https://github.com/Mr-JoE1/anonyMate.git
-$ cd anonyMate/
-$ chmod 777 install.sh
-$./install.sh
+- $ git clone https://github.com/Mr-JoE1/anonyMate.git
+- $ cd anonyMate/
+- $ chmod 777 install.sh
+- $./install.sh
 
 # Usage
 Open Terminal [By default in root Dirctory].
