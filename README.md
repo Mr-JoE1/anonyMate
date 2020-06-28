@@ -2,7 +2,7 @@
 Linux tool keeps all your connection Anonymouse 
 
 # What is this?
-AnonyMate is a simple to scripted in Bash to help White/Black hat beginners 
+AnonyMate is a simple tool scripted in Bash to help White/Black hat beginners 
 to be full anonymouse while doing Pen-Test.
 
 AnonyMate uses Linux tools like :Mac Changer - Tor - Kali-AnonSurf -proxychains ...etc
