@@ -11,6 +11,8 @@ to make all your connections Anonymous Just be excute one Command.
 # Installing
 Installing on Linux - It's only avaliable for Linux Distro. For NOW.
 
+To avoid dependencies errors: $ sudo apt-get update && apt-get upgrade
+then:
 - $ git clone https://github.com/Mr-JoE1/anonyMate.git
 - $ cd anonyMate/
 - $ chmod 777 install.sh
